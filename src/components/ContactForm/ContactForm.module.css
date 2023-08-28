@@ -1,0 +1,15 @@
+.label {
+  display: flex;
+  flex-grow: inherit;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.form {
+  width: 360px;
+}
+
+.button {
+  display: block;
+  margin-left: auto;
+}
